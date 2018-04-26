@@ -1,11 +1,26 @@
 Título (30)
 ===========
 
+GUÍA OFICIAL Cortes y Graena
+
 Descripción breve (80)
 ======================
 
+Guía con información de interés de Cortes y Graena
+
 Descripción completa (4000)
 ===========================
+
+Con la Aplicación “Guía Oficial de Cortes y Graena”, llevarás Cortes y Graena en Tú Bolsillo!
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Cortes y Graena desde una visión general, así como detallada, que servirá en la vida cotidiana.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, localizar centros de salud, hoteles, restaurantes, colegios,  tiendas, organismos públicos, farmacias,  monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado y ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. 
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+
 
 Etiquetas	
 ===========
