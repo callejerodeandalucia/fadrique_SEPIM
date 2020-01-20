@@ -23,7 +23,7 @@
 <!-- PLUGINS -->
     <plugin name="cordova-plugin-geolocation" source="npm" version="2.4.1" />
     <plugin name="cordova-plugin-inappbrowser" source="npm" version="1.5.0" />
-    <plugin name="cordova-plugin-splashscreen" source="npm" version="4.0.1" />
+    <plugin name="cordova-plugin-splashscreen" source="npm" version="5.0.3" />
     <plugin name="cordova-plugin-statusbar" source="npm" version="2.2.1" />
         <gap:config-file platform="ios" parent="UIStatusBarHidden" mode="add">
             <true/>
@@ -41,7 +41,7 @@
     <preference name="FadeSplashScreen" value="false"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="SuppressesLongPressGesture" value="true" />
-    <preference name="phonegap-version" value="cli-6.5.0" />
+    <preference name="phonegap-version" value="cli-8.1.1" />
 
 <!-- CONFIGURACIONES ESPECÍFIAS, ICONOS Y SPLASH -->
     <!-- al estar todos definidos, el icono y el splash por defecto no se usan, pero son
