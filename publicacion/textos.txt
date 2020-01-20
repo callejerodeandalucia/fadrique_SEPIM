@@ -1,25 +1,29 @@
 Título (30)
 ===========
 
-GUÍA OFICIAL Cortes y Graena
+GUÍA OFICIAL PUEBLA DE DON FADRIQUE
 
 Descripción breve (80)
 ======================
 
-Guía con información de interés de Cortes y Graena
+Guía - Callejero con información de interés de Puebla de Don Fadrique. 
 
 Descripción completa (4000)
 ===========================
 
-Con la Aplicación “Guía Oficial de Cortes y Graena”, llevarás Cortes y Graena en Tú Bolsillo!
+Con esta aplicación llevarás a Puebla de Don Fadrique en tu móvil. Es una aplicación desarrollada por el Ayuntamiento de Puebla de Don Fadrique y pretende ser un canal de información para el visitante. 
 
-La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Cortes y Graena desde una visión general, así como detallada, que servirá en la vida cotidiana.
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar a través de la geolocalización en un plano, la máxima información de Puebla de Don Fadrique y Almaciles que servirá a nuestros visitantes para conocer mejor y con mayor facilidad el patrimonio natural y cultural de La Puebla, así como los recursos y establecimientos de los que dispone. 
 
-Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, localizar centros de salud, hoteles, restaurantes, colegios,  tiendas, organismos públicos, farmacias,  monumentos y demás lugares de interés.
+Esta guía es muy útil para moverse por sus calles y localizar sitios y lugares como el centro de salud, farmacias, hoteles, casas rurales, bares y restaurantes, colegios, parques, supermercados y comercios, servicios públicos, cajeros, así como los recursos turísticos de índole cultural y natural como monumentos, edificios históricos, museos o puntos de interés geológico.
 
-Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado y ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. 
+Esta aplicación no solo indica la ubicación, sino que incluso guiará hasta el lugar solicitado y tendrá la posibilidad de realizar llamadas o enviar correos electrónicos, así como visitar sus sitios web. Para poder identificar mejor la ubicación la aplicación ofrece una imagen donde está ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa. La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
 
-La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+Puebla de Don Fadrique es un municipio que en los últimos años se ha convertido en un referente en turismo rural, un turismo donde destaca la gastronomía, el patrimonio natural y cultural y la calidad del cielo nocturno.
+La Gastronomía destaca por los diferentes platos de cordero segureño, siendo uno de los mejores corderos de España. La carne de Cordero Seguñero tiene denominación IGP (Indicación Geográfica Protegida), caracterizándose por el escaso sabor y olor a sebo, además de una gran terneza y jugosidad. También destacan los embutidos, algunos de ellos exclusivos de La Puebla como la güeña, patatera, lomo a la tabla o de orza. 
+En el patrimonio natural es importante la rica biodiversidad con la que cuentan las sierras de La Puebla, recogidas dentro de la Red Natura 2000, destacan especies faunísticas y florísticas de gran interés. No podemos olvidarnos del rico patrimonio geológico, cuyo máximo exponente es La Sagra, pero donde también destacan otros Puntos de Interés Geológico (PIG), muchos de ellos recogidos en esta guía. Lugares que son referentes en el Geoparque de Granada. Esto convierte a La Puebla en uno de los mejores escenarios para la práctica deportiva organizando diversos torneos como las carreras “La Sagra Sky Series”, “La Sagra MTB Race” o la práctica de la escalada en la vía ferrata de la Piedra de La Rendija. 
+En cuanto al patrimonio cultural destacar los grandes edificios monumentales, destacando entre ellos la Iglesia Catedralicia Santa María de la V Angustia, declarada Bien de Interés Cultural (BIC), además de la Casa de Los Patiños, la Casa de Los Romero Valdés o el Puente de Almaciles. Este rico patrimonio lo podrás descubrir utilizando esta guía o con las visitas guiadas que se organizan todos los sábados de 11:30 a 14:00h (tfn: 652 652 046). No podemos olvidarnos de las Fiestas de La Pascua que se celebran desde el 25 al 29 de diciembre, declaradas de Interés Turístico Andaluz.
+Visitar La Puebla nos da la oportunidad de dormir bajo el cielo más limpio de Europa. Observar las estrellas, la Vía Láctea, los planetas o la luna es posible aquí a través del Observatorio Astronómico de La Sagra, el cual realiza observaciones nocturnas para todas las personas que lo deseen durante los fines de semana de 19:00 a 21:00h en invierno y de 11:00 a 1:00h en verano (tfn: 629 682 299).
 
 
 Etiquetas	
