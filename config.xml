@@ -45,10 +45,6 @@
 		
 		
 <!-- CONFIGURACIONES ESPECÍFIAS, ICONOS Y SPLASH -->
-    <!-- al estar todos definidos, el icono y el splash por defecto no se usan, pero son
-    necesarios para que PGB genere el resto. pongo los de menor resolución para reducir tamaño -->
-	<icon src="resources/android/icon/drawable-ldpi-icon.png"/>
-    <splash src="resources/android/splash/drawable-port-ldpi-screen.png"/>
     <platform name="ios">
         <preference name="target-device" value="universal" />
         <!-- no genero splash para iPad (target-device=handset) -->
