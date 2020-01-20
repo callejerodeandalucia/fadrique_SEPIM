@@ -14,7 +14,7 @@
 	</author>
 	<content src="index.html" />
 	<access origin="*" />
-	
+	<preference name="android-targetSdkVersion" value="28" />
 <!-- PERMISOS -->	
 	<preference name="permissions" value="none"/>	
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
