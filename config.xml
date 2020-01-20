@@ -41,7 +41,7 @@
     <preference name="FadeSplashScreen" value="false"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="SuppressesLongPressGesture" value="true" />
-    <preference name="phonegap-version" value="cli-8.1.1" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
 
 <!-- CONFIGURACIONES ESPECÍFIAS, ICONOS Y SPLASH -->
     <!-- al estar todos definidos, el icono y el splash por defecto no se usan, pero son
