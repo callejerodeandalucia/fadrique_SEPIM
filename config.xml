@@ -3,8 +3,8 @@
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		xmlns:android="http://schemas.android.com/apk/res/android"
 		id          = "es.juntadeandalucia.mapea.sepim.fadrique"
-		versionCode = "100" 
-		version     = "1.0.0" >
+		versionCode = "101" 
+		version     = "1.0.1" >
 
 	<name>GUÍA OFICIAL PUEBLA DE DON FADRIQUE</name>
 	<description>
