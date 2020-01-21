@@ -14,7 +14,6 @@
 	</author>
 	<content src="index.html" />
 	<access origin="*" />
-	<preference name="android-targetSdkVersion" value="28" />
 <!-- PERMISOS -->	
 	<preference name="permissions" value="none"/>	
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
@@ -41,7 +40,7 @@
     <preference name="FadeSplashScreen" value="false"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="SuppressesLongPressGesture" value="true" />
-    <preference name="phonegap-version" value="cli-8.1.1" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
 		
 		
 <!-- CONFIGURACIONES ESPECÍFIAS, ICONOS Y SPLASH -->
