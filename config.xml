@@ -97,7 +97,7 @@
         <splash src="resources/android/splash/drawable-port-xxhdpi-screen.png" qualifier="port-xxhdpi"/>
         <splash src="resources/android/splash/drawable-port-xxxhdpi-screen.png" qualifier="port-xxxhdpi"/>
     </platform>
-    <config-file platform="android" parent="/manifest" mode="merge">
+    <gap:config-file platform="android" parent="/manifest" mode="merge">
     	<application android:usesCleartextTraffic="true" />
-    </config-file>
+    </gap:config-file>
 </widget>
