@@ -77,9 +77,6 @@
 	<splash src="resources/ios/splash/iPad-Landscape2x.png" width="2048" height="1536"/>       
     </platform>
     <platform name="android">
-	<config-file platform="android" parent="/manifest" mode="merge">
-  		<application android:usesCleartextTraffic="true" />
-	</config-file>
 	<preference name="android-installLocation" value="auto" />
 	<icon src="resources/android/icon/drawable-xxxhdpi-icon.png" density="xxxhdpi" />
 	<icon src="resources/android/icon/drawable-xxhdpi-icon.png" density="xxhdpi" />
@@ -100,5 +97,7 @@
         <splash src="resources/android/splash/drawable-port-xxhdpi-screen.png" qualifier="port-xxhdpi"/>
         <splash src="resources/android/splash/drawable-port-xxxhdpi-screen.png" qualifier="port-xxxhdpi"/>
     </platform>
-
+    <config-file platform="android" parent="/manifest" mode="merge">
+    	<application android:usesCleartextTraffic="true" />
+    </config-file>
 </widget>
